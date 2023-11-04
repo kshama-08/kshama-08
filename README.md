@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kshama Gaurav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lexend&size=32&duration=3500&pause=500&color=3A67CA&center=true&width=435&lines=Hi%2C+👋+I+am+Kshama+Gaurav;An+Engineering+Student;A+Front-end+Web+Developer;UI/UX+Developer;DSA+enthusiast)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshama-08&label=Profile%20views&color=0e75b6&style=flat" alt="kshama-08" /> </p>
 
